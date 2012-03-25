@@ -1,3 +1,7 @@
+========================
+Advanced Security Topics
+========================
+
 This repo contains the slides from my talk on Advanced Security at
 Pycon US 2012.
 
@@ -9,11 +13,13 @@ network (PaulM), and respond pretty quickly via twitter
 (@paulrmcmillan) or email (paul@mcmillan.ws).
 
 The video:
-http://www.youtube.com/watch?v=JOXwclgvXB0
-http://pyvideo.org/video/638/advanced-security-topics
+
+* http://www.youtube.com/watch?v=JOXwclgvXB0
+* http://pyvideo.org/video/638/advanced-security-topics
 
 Brian Rue's Notes:
-http://brianrue.wordpress.com/2012/03/09/pycon-2012-notes-advanced-security-topics/
+
+* http://brianrue.wordpress.com/2012/03/09/pycon-2012-notes-advanced-security-topics/
 
 March 9th 1:45 p.m. – 2:40 p.m.
 
